@@ -2,7 +2,7 @@
 
 Estou estudando no Alura
 
-Estou mme desenvolvendo na linguegem javaScript
+Estou me desenvolvendo na linguegem javaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
 
